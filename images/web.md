@@ -117,7 +117,7 @@ In this lab, you will install Azure extensions, sign in to Azure through Visual 
 
     ![Deploy to Web App](23.png)
 
-3. Select your **Application Folder(27)** where jar file is located for deployment.
+3. Select your **Application Folder(26)** where jar file is located for deployment.
 
     ![Select Application Folder](24.png)
 
