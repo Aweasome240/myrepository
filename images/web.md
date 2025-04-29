@@ -89,7 +89,7 @@ In this lab, you will install Azure extensions, sign in to Azure through Visual 
 
     ![Select Runtime Stack](16.png)
 
-6. Select the **Web Server Stac(21)k** — choose **Java SE**.
+6. Select the **Web Server Stack(21)** — choose **Java SE**.
 
     ![Select Web Server Stack](17.png)
 
@@ -117,7 +117,7 @@ In this lab, you will install Azure extensions, sign in to Azure through Visual 
 
     ![Deploy to Web App](23.png)
 
-3. Select your **Application Folder(27)** for deployment.
+3. Select your **Application Folder(27)** where jar file is located for deployment.
 
     ![Select Application Folder](24.png)
 
