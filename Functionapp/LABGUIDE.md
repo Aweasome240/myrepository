@@ -123,15 +123,15 @@ Before proceeding, ensure Python is already installed. You can verify this by op
     
     ![Select Azure Storage](22.png)
 
-12. Select the **Storage Account(10)** you want to use for your function app(11).
+12. Select the **Storage Account(10)** you want to use for your function app.
     
     ![Select Storage Account](23.png)
 
-13. Select The option **Open in current window(12)**.
+13. Select The option **Open in current window(11)**.
     
     ![Open in Current Window](24.png)
 
-14. It will start the process of creating the function app. Once it is done, you will see a new folder with the name of your function app in the **Explorer** view.
+14. It will start the process of creating the function app. Once it is done, you will see a new folder with the name of your function app in the **Explorer(12)** view.
     
     ![Function App Created](25.png)
 
